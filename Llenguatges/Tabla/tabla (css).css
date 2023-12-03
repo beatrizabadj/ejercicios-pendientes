@@ -1,0 +1,72 @@
+*{
+    font-family:system-ui;
+}
+table{
+    border:2px black;
+}
+tr:first-child,td:first-child{
+    background-color: lightgrey;
+}
+
+
+
+tr,th{
+    padding:10px;
+    
+}
+
+td{
+    padding:20px;
+    text-align:center;
+    font-weight:bold;
+}
+
+#Fol {
+    background-color:rgb(108, 96, 184);
+    color:white;
+    text-decoration:underline;
+}
+
+#Empresa {
+    background-color:darkred;
+    color:white;
+    text-decoration:underline;
+}
+#llenguatges {
+    background-color:rgb(38, 158, 197);
+    color: white;
+    text-decoration:underline;
+}
+#BigData {
+    background-color:rgb(225, 32, 128);
+    color: white;
+    text-decoration:underline;
+}
+#Empresa {
+    background-color:purple;
+    color: white;
+    text-decoration:underline;
+}
+#Sistemes {
+    background-color:darkred;
+    color: white;
+    text-decoration:underline;
+}
+#Bases {
+    background-color:rgb(26, 107, 108);
+    color: white;
+    text-decoration:underline;
+}
+#programació {
+    background-color:rgb(107, 182, 107);
+    color: white;
+    text-decoration:underline;
+}
+#Entorns {
+    background-color:rgb(140, 130, 34);
+    color: white;
+    text-decoration:underline;
+}
+#Tutoria {
+    text-decoration:underline;
+}

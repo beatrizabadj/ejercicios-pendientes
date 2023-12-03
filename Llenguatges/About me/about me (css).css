@@ -1,0 +1,48 @@
+html {
+    background-color: #eca5d5a9;
+    width:500px;
+    padding-top:0;
+    padding:400px;
+}
+
+div{
+  padding:20px;
+  text-align:center;
+  margin: 20px;
+}
+
+h1, h2 {
+  color: rgb(255, 255, 255);
+  font-family: horizon;
+  background-color: #f182cedb;
+}
+
+
+body {
+    width: 500px;
+    margin: 10px;   
+    margin-bottom:1px;
+    font-family: Horizon;
+    font-size: 13px;
+    color: rgb(255, 255, 255);
+    text-align:justify;
+    align-items:center;
+}
+
+a{
+  margin:10px;
+  margin-bottom:10px;
+}
+
+p{
+  margin-top:40px;
+}
+
+img{
+  margin:0 auto;
+  margin-bottom:10px;
+  width: 100px;
+  height:100px;
+  display:block;
+}
+

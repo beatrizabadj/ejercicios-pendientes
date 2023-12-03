@@ -1,0 +1,43 @@
+html{
+    font-family:arial;
+    padding:300px;
+    padding-top:10px;
+}
+
+div{
+    margin-left:150px;
+    margin-top:20px;
+    padding:20px;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+    border-right:1px solid black;
+}
+
+body{
+    font-size:small;
+    margin:20px;
+    padding: 20px;
+    border:2px;
+}
+img{
+    width: 120px;
+    height:150px;
+    margin-left: 20px;
+    margin-top:20px;
+    margin-right:20px;
+    float: left;
+}
+h3{
+    border:5px;
+    padding:10px;
+}
+#cita{
+    text-align:center;
+}
+
+#h3{
+    border-left:1px solid black;
+}
+a{
+    color:rgb(147, 180, 202);
+}
